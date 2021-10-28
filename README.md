@@ -1,4 +1,4 @@
-# Horiseo accessibility update
+# Horiseon accessibility update
 
 ## Description
 The Client requested an update to their current homepage to make it more accessible and user-friendly. I edited existing code to make sure the site follows best practices for accessibility, all links are functioning correctly, and images have alt tags. I also cleaned up the code on the back end so that it is easier to read and edit for the future.
